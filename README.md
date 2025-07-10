@@ -6,6 +6,8 @@
 2. **Face Detection Module** 
 [![Face Detection](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YX1nbhvvcgal4jYkjRnPZG2IrhMjov_j)
 
+**Deployment Link** https://huggingface.co/spaces/phani50101/Educational-bot
+
 # Demo Videos Set quality to 1080p
 
 **Demo Video**:  [https://drive.google.com/file/d/1oN8fFBkiM5quF1pJI3tD3H5d9cOaZi2-/view](https://drive.google.com/file/d/1oN8fFBkiM5quF1pJI3tD3H5d9cOaZi2-/view?pli=1)

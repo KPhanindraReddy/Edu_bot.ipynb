@@ -18,7 +18,7 @@
 **Demo Video**:  [https://drive.google.com/file/d/1oN8fFBkiM5quF1pJI3tD3H5d9cOaZi2-/view](https://drive.google.com/file/d/1oN8fFBkiM5quF1pJI3tD3H5d9cOaZi2-/view?pli=1)
 
 **or**
-**Demo Video(Youtub)**: https://youtu.be/5Ih2K5OO3RU
+**Demo Video(Youtube)**: https://youtu.be/5Ih2K5OO3RU
 
 ## **Overview**
 This comprehensive AI solution transforms traditional classrooms into interactive learning environments by combining:

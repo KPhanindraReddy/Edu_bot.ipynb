@@ -8,7 +8,7 @@
 
 **Deployment Link** https://huggingface.co/spaces/phani50101/Educational-bot
 
-**Report Link** https://drive.google.com/file/d/1_fx0fXyPlQxZiLDRH_UBZ7qwnMYFqiFg/view?usp=sharing
+**Report Link** [https://drive.google.com/file/d/1_fx0fXyPlQxZiLDRH_UBZ7qwnMYFqiFg/view?usp=sharing](https://drive.google.com/file/d/1GFci-XhmTg88JaAwbalUX6y5DE6ThDOH/view?usp=sharing)
 
 
 **PPT**  https://docs.google.com/presentation/d/1_DqfAcHziJe2SGgVnaUMJgVxekFi460C/edit?usp=sharing&ouid=112518532882523343338&rtpof=true&sd=true

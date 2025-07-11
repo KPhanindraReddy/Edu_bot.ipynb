@@ -4,7 +4,7 @@
 1. **Main AI Assistant** 
 [![Open Main Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship/blob/main/Problem_Statement_4_intel_edu_bot.ipynb)
 2. **Face Detection Module** 
-[![Face Detection](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YX1nbhvvcgal4jYkjRnPZG2IrhMjov_j)
+[![Face Detection](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/KPhanindraReddy/c3f81133e086903e6c2385bb1d199b1e/recognition_and-_engagement_tracking_of_student.ipynb)
 
 **Deployment Link** https://huggingface.co/spaces/phani50101/Educational-bot
 
@@ -48,7 +48,7 @@ Designed for teachers to personalize instruction and understand class dynamics i
    
 
 2. **Face Detection Module**  
-   [Open face detection system](https://colab.research.google.com/drive/1YX1nbhvvcgal4jYkjRnPZG2IrhMjov_j)
+   [Open face detection system](https://colab.research.google.com/gist/KPhanindraReddy/c3f81133e086903e6c2385bb1d199b1e/recognition_and-_engagement_tracking_of_student.ipynb)
 
 ## **Key Features**
 

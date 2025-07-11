@@ -33,7 +33,7 @@ Generate descriptive captions from images.
 
 ###  Mistral1 - Text Chatbot  
 A text-based AI assistant powered by the Mistral model.  
-🔗 [View on Hugging Face](https://huggingface.co/phani50101/mistral1/settings)
+🔗 [View on Hugging Face]([https://huggingface.co/phani50101/mistral1/settings](https://huggingface.co/phani50101/mistral1/tree/main))
 ## **Overview**
 This comprehensive AI solution transforms traditional classrooms into interactive learning environments by combining:
 - **Smart Teaching Assistant** - AI-powered educational support

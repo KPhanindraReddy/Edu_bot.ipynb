@@ -20,6 +20,20 @@
 **or**
 **Demo Video(Youtube)**: https://youtu.be/5Ih2K5OO3RU
 
+## 🤗 Hugging Face Models (Optimized with OpenVINO™)
+
+This project leverages OpenVINO™-optimized AI models hosted on Hugging Face to enable fast, efficient inference across multiple modalities:
+###  Speech-to-Text Model  
+Convert spoken audio into text using this optimized model.  
+🔗 [View on Hugging Face](https://huggingface.co/phani50101/speech_to_text/tree/main)
+
+###  Intern Image-to-Text Model  
+Generate descriptive captions from images.  
+🔗 [View on Hugging Face](https://huggingface.co/phani50101/intern_image_to_text/tree/main)
+
+###  Mistral1 - Text Chatbot  
+A text-based AI assistant powered by the Mistral model.  
+🔗 [View on Hugging Face](https://huggingface.co/phani50101/mistral1/settings)
 ## **Overview**
 This comprehensive AI solution transforms traditional classrooms into interactive learning environments by combining:
 - **Smart Teaching Assistant** - AI-powered educational support

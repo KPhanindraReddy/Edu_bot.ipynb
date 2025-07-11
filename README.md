@@ -8,6 +8,11 @@
 
 **Deployment Link** https://huggingface.co/spaces/phani50101/Educational-bot
 
+**Report Link** https://drive.google.com/file/d/1_fx0fXyPlQxZiLDRH_UBZ7qwnMYFqiFg/view?usp=sharing
+
+
+**PPT**  https://docs.google.com/presentation/d/1_DqfAcHziJe2SGgVnaUMJgVxekFi460C/edit?usp=sharing&ouid=112518532882523343338&rtpof=true&sd=true
+
 # Demo Videos Set quality to 1080p
 
 **Demo Video**:  [https://drive.google.com/file/d/1oN8fFBkiM5quF1pJI3tD3H5d9cOaZi2-/view](https://drive.google.com/file/d/1oN8fFBkiM5quF1pJI3tD3H5d9cOaZi2-/view?pli=1)
@@ -25,7 +30,7 @@ Designed for teachers to personalize instruction and understand class dynamics i
 ## **How to Access**
 1. **Main AI Assistant**  
    [Click here to run in Google Colab](https://colab.research.google.com/github/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship/blob/main/Problem_Statement_4_intel_edu_bot.ipynb)  
-   *(Requires Google account)*
+   
 
 2. **Face Detection Module**  
    [Open face detection system](https://colab.research.google.com/drive/1YX1nbhvvcgal4jYkjRnPZG2IrhMjov_j)
